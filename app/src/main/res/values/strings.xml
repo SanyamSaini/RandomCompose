@@ -5,4 +5,5 @@
     <string name="title_activity_rcbactivity">RCBActivity</string>
     <string name="title_activity_alignment_arrangement">AlignmentArrangementActivity</string>
     <string name="title_activity_learn_state">LearnStateActivity</string>
+    <string name="title_activity_top_app_bar">TopAppBarActivity</string>
 </resources>
