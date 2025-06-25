@@ -1,4 +1,4 @@
-package com.sam.random.composable
+package com.sam.random.composable.otheractivity
 
 import android.os.Bundle
 import android.widget.Toast
@@ -6,7 +6,6 @@ import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
 import androidx.compose.foundation.layout.fillMaxSize
-import androidx.compose.foundation.layout.padding
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.MoreVert
 import androidx.compose.material.icons.filled.Person
@@ -24,6 +23,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.tooling.preview.Preview
+import com.sam.random.composable.R
 import com.sam.random.composable.ui.theme.GreenJC
 import com.sam.random.composable.ui.theme.RandomComposableTheme
 
